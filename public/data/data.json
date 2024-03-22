@@ -1,0 +1,38 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/c2FsMpD/rectangle.png",
+        "name": "John Doe",
+        "age": 30,
+        "email": "john.doe@example.com",
+        "phone": "+1234567890",
+        "role": "Admin",
+        "date_joined": "2022-01-01",
+        "status": "Active"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/c2FsMpD/rectangle.png",
+        "name": "Jane Smith",
+        "age": 25,
+        "email": "jane.smith@example.com",
+        "phone": "+1987654321",
+        "role": "User",
+        "date_joined": "2022-02-15",
+        "status": "Inactive"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/c2FsMpD/rectangle.png",
+        "name": " AL Johnson",
+        "age": 35,
+        "email": "alice.johnson@example.com",
+        "phone": "+1122334455",
+        "role": "User",
+        "date_joined": "2022-03-10",
+        "status": "Active"
+      }
+    ]
+  }
+  
